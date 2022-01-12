@@ -1,3 +1,7 @@
+# Accompanying code to the 2019 version of paper.
+# A container with all packages in order to run the examples2019.R and the supplementary_code2019.R 
+# is available at docker hub and can be accessed via: docker run -p 8787:8787 -e PASSWORD=pwd grho/cswr.
+
 ####################
 ### Section Data ###
 
